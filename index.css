@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.trafficcontainer {
+    background-color: #86d2f2;
+}
+
+#stopButton {
+    height: 35px;
+    width: 60px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #1f1d41;
+    color: white;
+}
+
+#readyButton {
+    height: 35px;
+    width: 60px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #1f1d41;
+    color: white;
+}
+
+#goButton {
+    height: 35px;
+    width: 60px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #1f1d41;
+    color: white;
+}
+
+.trafficpole {
+    margin: 20px;
+    height: 250px;
+    width: 85px;
+    background-color: #1f1d41;
+    border-radius: 30px;
+    border-width: 2px;
+}
+
+#stopLight {
+    margin: 20px;
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    background-color: #4b5069;
+    border-width: 2px;
+    margin-top: 35px;
+}
+
+#readyLight {
+    margin: 20px;
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    background-color: #4b5069;
+    border-width: 2px;
+}
+
+#goLight {
+    margin: 20px;
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    background-color: #4b5069;
+    border-width: 2px;
+    margin-bottom: 35px;
+}
